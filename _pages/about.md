@@ -1,4 +1,4 @@
----
+﻿---
 layout: about
 title: about
 permalink: /
@@ -10,9 +10,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>📍 Watertown, MA 02472</p>
-    <p>📧 vafaee@bc.edu</p>
-
+    <p>Watertown, MA 02472</p>
+    <p>vafaee@bc.edu</p>
 selected_papers: true
 social: true
 announcements:
