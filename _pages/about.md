@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
   Postdoctoral Fellow, <a href="https://www.bc.edu/bc-web/schools/mcas/departments/computer-science.html">Department of Computer Science</a>, Boston College.
-  Advisor: <a href="https://www.eecs.tufts.edu/~khan/">Prof. Usman A. Khan</a>.
+  Advisor: <a href="https://sites.google.com/view/usmankhan">Prof. Usman A. Khan</a>.
 profile:
   align: right
   image: prof_pic.jpg
@@ -21,7 +21,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Postdoctoral Fellow in the Department of Computer Science at **Boston College**, working with [Prof. Usman A. Khan](https://www.eecs.tufts.edu/~khan/). My research sits at the intersection of **robotics, control theory, and combinatorial optimization**, with a focus on developing scalable algorithms with rigorous performance guarantees.
+I am a Postdoctoral Fellow in the Department of Computer Science at **Boston College**, working with [Prof. Usman A. Khan](https://sites.google.com/view/usmankhan). My research sits at the intersection of **robotics, control theory, and combinatorial optimization**, with a focus on developing scalable algorithms with rigorous performance guarantees.
 
 **Research themes:**
 
